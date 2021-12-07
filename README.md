@@ -5,7 +5,7 @@ Ce dépôt contient le code source relatif à l'épisode 6 de notre chaîne [inp
 
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo.
 
-Dans le cas d'une suite d'épisodes, chaque épisode repart depuis l'état du précédent. Par exemple le code contenu dans le dépôt GitHub de l'épisode X (LESS on the Mix) est le rendu final de l'épisode 6.
+Dans le cas d'une suite d'épisodes, chaque épisode repart depuis l'état du précédent. Par exemple le code contenu dans le [dépôt GitHub de l'épisode X](https://github.com/inpulse-tv/epX-LESS-on-the-Mix) (LESS on the Mix) est le rendu final de l'épisode 6.
 
 Pour télécharger et installer le code source de l'épisode il suffit d'exécuter la commande suivante dans un terminal Bash ou Powershell depuis le dossier de destination :
 ```bash
