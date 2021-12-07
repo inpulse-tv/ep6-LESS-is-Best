@@ -1,7 +1,7 @@
 # LESS is Best
 
 Ce dépôt contient le code source relatif à l'épisode 6 de notre chaîne [inpulse.tv](https://www.inpulse.tv) dédié au langage de préprocessing **LESS** :
-- [ep.6 - LESS is Best - [LESS partie.2] [1ntro] [#devtech]](https://www.youtube.com/watch?v=u7LYRGraGMQ&list=PLORtqNVm6r7CkRoQ_mxLB-QDhm-8nR3ov&index=2)
+- [LESS is Best - [LESS partie.2]  [1ntro]  [#devtech]  [ep.6]](https://www.youtube.com/watch?v=u7LYRGraGMQ&list=PLORtqNVm6r7CkRoQ_mxLB-QDhm-8nR3ov&index=2)
 
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo.
 
